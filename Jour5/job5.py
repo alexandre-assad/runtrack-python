@@ -3,4 +3,4 @@ def parcours(x,y):
     return "Pour {} marches de {} cm, il parcours {} m par semaine en allant 5 fois aux toilettes par jour".format(x,y,distance)
 
 
-print(parcours(20,30))
+print(parcours(5,6))
